@@ -1,2 +1,2 @@
-# Java--Files-and-Collections
+# Java-Applications
 standard applications using Core Java
